@@ -5,7 +5,7 @@ Collection of notebooks, implemented research papers and resources for anyone in
 ## Quick Start
 
 ```
-git clone https://github.com/martintmv-git/cookbook.git
+git clone https://github.com/martintomov/cookbook.git
 cd cookbook
 ```
 
@@ -23,7 +23,7 @@ cd cookbook
 - [x] [Machine Learning Engineering](https://leanpub.com/MLE) by Andriy Burkov
 - [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 - [x] [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) by Andrew Ng (Available for free as a downloadable PDF)
-- [ ] [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) by François Fleuret
+- [x] [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) by François Fleuret
 - [ ] [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by Cameron Davidson-Pilon
 - [ ] [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 - [ ] [ISL with Python](https://www.statlearning.com/)
@@ -48,7 +48,7 @@ cd cookbook
 - [x] [Andrej Karpathy - Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=KMezzHxohaHSIerp)
 - [x] [Andrej Karpathy - The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=f3eZ6xjExqj4bU6p)
 - [x] [NLP Workshop - Olaf Janssen](https://olafjanssen.github.io/nlp-workshop/)
-- [ ] [LLM Course Repository](https://github.com/mlabonne/llm-course)
-- [ ] [Radu Mariescu-Istodor - Machine Learning Course in JavaScript](https://www.youtube.com/watch?v=fa3BE_VwyS4&list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4&pp=iAQB)
+- [x] [LLM Course Repository](https://github.com/mlabonne/llm-course)
+- [x] [Radu Mariescu-Istodor - Machine Learning Course in JavaScript](https://www.youtube.com/watch?v=fa3BE_VwyS4&list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4&pp=iAQB)
 
 <img width="1518" alt="Screenshot 2024-01-28 at 15 52 55" src="https://github.com/martintmv-git/ai-advanced-prep/assets/101264514/e9281f03-a89a-4951-a206-b1dcfc2e308e">
